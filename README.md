@@ -6,3 +6,4 @@
 - He creado el archivo data/ghost_hosts.csv.
 - He definido el contrato de datos.
 - He compartido la estructura del CSV con el Agent 2.
+- Los archivos sospechoso es exorcism.sh
