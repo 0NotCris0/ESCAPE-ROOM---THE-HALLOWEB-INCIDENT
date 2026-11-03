@@ -2,7 +2,7 @@
 
 CSV="data/ghost_hosts.csv"
 
-if [ ! -f "$CSV" ]; then
+# if [ ! -f "$CSV" ]; then
     echo "ERROR: No existe el archivo CSV"
     exit 1
 fi
