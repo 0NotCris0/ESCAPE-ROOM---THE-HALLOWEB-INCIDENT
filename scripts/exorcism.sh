@@ -22,5 +22,11 @@ do
                 ;;
         esac
 
+=======
+while IFS=, read -r host ip nivel estado
+do
+    if [ "$estado" = "Infectado" ]; then
+        echo "AISLAMIENTO SIMULADO: $host ($ip)"
+
     fi
 done < <(tail -n +2 "$CSV")
