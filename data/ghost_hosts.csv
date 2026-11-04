@@ -1,4 +1,4 @@
-Host,IP,Nivel_Amenaza,Estado
-ghost-server,192.168.1.10,Alto,Infectado
-phantom-pc,192.168.1.20,Medio,Sospechoso
-spectral-db,192.168.1.30,Critico,Infectado
+Host,IP,Nivel_Amenaza,Estado, Port_Infectat
+ghost-server,192.168.1.10,Alto,Infectado,22
+phantom-pc,192.168.1.20,Medio,Sospechoso,8080
+spectral-db,192.168.1.30,Critico,Infectado,445
