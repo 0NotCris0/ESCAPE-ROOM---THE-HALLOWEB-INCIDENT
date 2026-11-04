@@ -35,5 +35,5 @@ El CSV no contenía la columna Port_Infectat.
 - Resultado: [explicar las conclusiones].
 
 ## Resultado final
-Datos de amenazas recuperados correctamente por Agent 1.
+Script de mitigacion validado por Agent 2.
 
